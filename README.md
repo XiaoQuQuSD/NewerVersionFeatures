@@ -6,5 +6,5 @@ This is a plugin for Spigot Server. If you want to try the newer version's featu
 I changed the implementation of some features because I didn't have the ability to release them. If you want to restore the feature better, please submit a pull request.  
 我更改了一些特性的实现规则，因为我并没有实现他们的能力。如果你想要将特性还原的更好，请提交 Pull-Request。
 
-You can change the plugin, but notice that the plugin is open-source in AGPL3.0 License.
+You can change the plugin, but notice that the plugin is open-source in AGPL3.0 License.  
 你可以二次开发这个插件，但请注意这个插件是以 AGPL-3.0 协议开源的。
